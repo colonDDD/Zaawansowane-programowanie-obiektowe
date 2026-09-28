@@ -1,0 +1,2 @@
+Projekt to prosta gra typu RPG, gdzie mamy 2 różne klasy postaci które poprzez walkę w bitwach z wyborem poziomu trudności mogą ,,level-up'ować" dostając dodatkowe ,,staty", dzięki czemu nasza wybrana postać ma coraz większe szansę na pokonanie
+trudniejszych przeciwników. 
